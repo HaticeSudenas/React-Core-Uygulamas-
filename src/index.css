@@ -1,0 +1,14 @@
+/*#removeIcon{
+    display: none;
+}
+#removediv{
+    display:none;
+}
+#removediv:hover{
+    display:inline-block;
+    background-color:black;
+}*/
+.page-item a{
+    color: black;
+    font-weight: bold;
+}
